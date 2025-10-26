@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Blink It Project (Power bi)"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "dedf10db-e7fa-41bf-800a-da2fa9e42d09"
+  }
+}
